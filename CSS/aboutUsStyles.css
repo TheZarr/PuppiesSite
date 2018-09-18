@@ -1,0 +1,36 @@
+.list {
+    font-style: italic;
+    font-family: monospace;
+    font-weight: bolder;
+    color: #D2B48C;
+}
+#footer {
+    background-color: #5B331D;
+    clear: left;
+}
+
+.container {
+    background-color: #5B331D;
+}
+body {
+    background-color: #D2B48C;
+}
+/* #para {
+    float: left;
+} */
+.list1 {
+    color: beige;
+}
+.us {
+    color:white;
+    font-style: italic;
+    font-family: monospace;
+    font-weight: bolder;
+}
+.fl {
+    float: left;
+    padding-right: 15px;
+}
+#para {
+    clear: both;
+}

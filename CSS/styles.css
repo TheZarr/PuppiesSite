@@ -1,0 +1,42 @@
+.jumbotron {
+    background-color: #5B331D;
+    margin: auto;
+    width: 75%;
+    border: 3px solid rgb(128, 134, 128);
+    padding: 10px; 
+}
+body {
+    background-color: #D2B48C;
+}
+
+#h1 {
+    color: rgb(207, 186, 158);
+}
+.lead{
+    color: white;
+}
+.my-4 {
+    color: white;
+}
+
+#button {
+    background-color: black;
+    border: 0px;
+}
+#footer {
+    background-color: #5B331D
+}
+
+#title {
+    font-style: italic;
+    font-family: monospace;
+    font-weight: bolder;
+    color: #5B331D;
+}
+#dogPic {
+    width: 280px;
+    height: 480px;
+}
+/* .container {
+    background-color: #5B331D;
+  } */
